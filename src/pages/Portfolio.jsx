@@ -5,13 +5,13 @@ const projects = [
         name: "Pokedex",
         description: "Este é o primeiro projeto.",
         image: "assets/Pokedex.jpg",
-        link: "https://meusite.com/projeto1", // URL do site
+        link: "https://pokedex-ebon-iota-14.vercel.app/", // URL do site
     },
     {
         name: "TodoList",
         description: "Este é o segundo projeto.",
         image: "assets/TodoList.jpg",
-        link: "https://meusite.com/projeto2", // URL do site
+        link: "https://projeto-pratico-front.vercel.app/", // URL do site
     },
 ];
 
@@ -30,3 +30,4 @@ function Portfolio() {
 }
 
 export default Portfolio;
+
